@@ -1,0 +1,14 @@
+*.jar
+*.war
+*.class
+*.ear
+.settings
+.classpath
+.project
+..........
+.DS_Store
+.....
+allure-results/
+screenshots/
+test-output/
+.................
